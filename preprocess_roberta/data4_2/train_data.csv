@@ -1,0 +1,112 @@
+label,text
+1,sexi .
+1,( n ) time complex ? programm suppos familiar order solv problem ? mean .. mathematician abl solv problem ?
+1,"would work input array contain one set solutiotn eg : int [ ] num = { , , , , , , } ; test.twosum ( num , ) ;"
+1,u correct mistak got hash dic= { } x= [ ] num : dic : dic [ ] += els : dic [ ] = num : dif=target-i ( dif ! =dic ) : dif dic : x.append ( dic [ ] - ) x.append ( dic [ dif ] ) break return x
+1,wan na cri right loudly_crying_fac
+2,leetcod : dream start
+1,"itertool import combin m= a= [ , , , ] a=list ( combin ( , ) ) a=list ( map ( sum , ) ) p , enumer ( ) : i==m : print ( [ a.index ( [ p ] [ ] ) , a.index ( [ p ] [ ] ) ] ) solut"
+2,"swear , best video alway one like fewest amount view . thank much ."
+1,ca n't thank enough . 've never seen anyon make explain simple/easy/concret
+1,"n't learn hashmap yet , wan na tri leetcod ( least first problem ) realiz 'm lack someth , look , turn idk hashmap , look , also learnt big notat . went back video everyth make sens , includ algorithm . look like need keep leetcod back burner sinc clearli n't enough fundament"
+1,thank much man one ladi explain set map check complement first time . go crazi fuck etc hour .
+2,nice bro . thank !
+1,"thank neetcod incred explan video , blind- playlist particularli ! ! confid say video integr part abl get excit new posit global tech compani . 'll definit support channel patreon , look forward futur content !"
+1,n't get one thing . faster store valu hashmap look valu instead look directli list ? like : diff num [ i+ : ] .
+1,n't understand
+1,get good know trick use subtract valu target store hash ? repetit rule book ?
+1,"amazingli neat explan walkthrough . one quesiton . , creat dictionari valu -- > index map . make thing easier later part , think creat possibl duplic key ?"
+1,"solut handl duplic array ? exampl input [ , ]"
+1,text
+2,"rocket http : //neetcode.io/ - creat free site make interview prep lot easier , hope help ! red_heart"
+2,nice explan ! thank !
+1,bhai pleas make video hashmap implement
+1,also provid solut . design hashmap . design hashset
+1,figur nest loop solut like minut find take long
+2,thank content ! !
+1,explan good pleas code java relat end code check got correct mistak pleas ?
+1,yea 's python say map . c iter
+1,softwar use draw ?
+2,python ide recommend ?
+1,"bro 'm fresh csp , first easi question ? hell hashmap bruh"
+1,"explan super ! enumer take ( n ) time make expens loop base index . like : def two_sum ( arr , ) : tabl = { } rang ( len ( arr ) ) : diff = t-arr [ ] diff tabl : return ( , tabl [ diff ] ) tabl [ arr [ ] ] = print ( two_sum ( [ , , , , , ] , ) )"
+1,"bro learn hashmap , link list etc respect python ? ? mean also want learn data structur algorithm respect python easili said video ! ! could pleas give repli find ?"
+1,"js : function twosum ( array , target ) { let map = new map ( ) ( let = ; < array.length ; i++ ) { differ = target - array [ ] ( map.get ( differ ) ! == undefin ) { return [ , map.get ( differ ) ] } map.set ( array [ ] , array.indexof ( array [ ] ) ) } }"
+1,"complex line -- > `` diff prevmap `` ( n ) final complex would ( n * n ) . instead use dictionari method get ( ) , complex get method ( ) . instead diff prevmap tri : prevmap.get ( diff ) also , duplic key ?"
+1,"hi . code class solut : def twosum ( self , num : list [ int ] , target : int ) - > list [ int ] : rang ( len ( num ) ) : curr_sum = num [ ] j = + j < = len ( num ) : curr_sum == target : print ( ( `` % % '' ) % ( , j- ) ) curr_sum > target j == len ( num ) : break j < len ( num ) : curr_sum += num [ j ] j += problem submiss help appreci ."
+2,"great clear explan , thank !"
+1,"funnier note , leetcod : dream start . . . leetcod : end ... stori coder leetcod face_with_hand_over_mouth"
+1,interview ask three sum question
+1,laid recent decid begin learn python cs . current section cs n't realli understand code behind solv problem . hope finish cs enough get speed !
+2,clever approach superior build complet hash map start ? like use less memori ?
+2,great expalan .
+1,"search oper , i.e. , `` valu dictnam '' run time complex ( n ) right ? put insid loop run ( n ) , make ( n^ ) . n't ?"
+1,ohhh ! ! inde pretti clever tho reli second number instead !
+1,tri code got error `` return outsid function `` .. ?
+1,.. wo n't worst case time complex ( n. ( n- ) ) ? sinc n't need go last integ anyway ?
+2,final good explan
+1,know solv lot leetcod problem ’ know explain detail ’ interview . essenti idk sound technic got ta say video big help .. also start help friend ( forc leetcod session ) improv lol
+1,"first , read problem left right , none number match . ok , get around , teach perspect best way start video ."
+2,dream start
+2,love tutori open python go blind white backgroundface_with_tears_of_joy love video tho !
+2,"optim solut could find tbh , thank much : share friend :"
+1,someon clarifi last line code ? ? would prevmap [ n ] = result solut ?
+1,bro fantast video . thank lot .
+2,thank help
+1,happi python ! :
+1,"thank everyth . get job , promis give lot bigger thankyou haha"
+1,time complex `` '' oper python ( n ) list ( ) dict ?
+1,"studi java , solut still help written python ?"
+1,someon explain search dictionari take ( ) ?
+1,"damn , `` easi . '' wonder hard `` hard '' one actual lmao ."
+0,"hi , exactli blind curat list ? blind mean ?"
+1,order array integ - unord
+1,line .. 's show error : argument type 'int ' iter diff prevmap :
+1,could briefli explain hashmap work make meaning . without inform peopl may think similarli first show alway check element current index use hashmap .
+1,tool use film hand draw ?
+1,"sir , god sent ! use idea beat % python submiss ! start timeout !"
+2,thank
+1,"normal feel dumb sit start studi big , algorithm tri code exercis ?"
+2,smart solut green_heart
+2,brilliant explan ! ! thank ! !
+1,"question hash approach : stl least , would use std : :map hash map . find key exist map , would need use map : :find ( key ) . complex map : :find ( ) ( log ( map : :size ( ) ) ) . n time , total complex seem ( n * log ( n ) ) instead linear seem suggest . true , sort array first , walk end . miss ?"
+2,thank explan .. help lot sir ! !
+1,"lot edg case . n't work neg valu mix valu [ - , , , - ] . thought moment saw question wrote code fail test case ."
+1,space constraint might sort use two pointer techniqu one pointer start left
+1,line : diff prevmap : also iter everi element current differ match element prevmap . also ? ( n )
+1,"sub ( n^ ) `` diff prevmap '' ( ) .. oper requir linear search hashmap 's key , theoret bad nest loop check element array other ."
+1,( diff prevmap ) take ( ) ?
+1,day challeng - june #
+1,"creat dictionari , right ? , set creat { ... } notat"
+0,"god , im swe suck bad leetcod question"
+1,pop end realli block content
+2,thank
+1,index map valu rather vice-versa ? purpos hash valu lookup sinc 's integ ?
+0,poor explan
+2,excel ! slightly_smiling_fac
+1,someon pleas help understand differ hashmap hash set use `` contain duplic ? ''
+2,clean
+1,diff prevmap ? n't prevmap = { } first empti string ? assum valu alreadi contain ?
+2,thank !
+1,"someth els 's worth mention exist ( n log n ) solut . obvious inferior averag case ( n ) perform one-pass hash tabl , 's worth mention . clr algorithm textbook , exercis .- . basic , procedur first perform merg sort array , follow binari search complement element . merg sort take ( n lg n ) time , perform binari search ( log n time ) n element take ( n lg n ) time . thu , entir algorithm take ( n lg n ) time ."
+2,thank lotred_heart
+2,well explain .
+1,three sum !
+1,leetcod geniu rolling_on_the_floor_laughingrolling_on_the_floor_laughing… pensive_fac
+1,"make sens , valu need sum . one valu appear anoth . cool work around ."
+1,"wolfsbane_u 's avatar wolfsbane_u hour ago view found solut two sum leetcood could understand : question : given array integ num integ target , return indic two number add target . may assum input would exactli one solut , may use element twice . return answer order . solut : var twosum = function ( num , target ) { const obj = { } ; ( let = ; < nums.length ; i++ ) { let cur = num [ ] ; let delta = target - cur ; ( obj [ delta ] || obj [ delta ] === ) { return [ obj [ delta ] , ] ; } obj [ cur ] = ; } } ; || obj [ delta ] || obj [ delta use way ?"
+1,n't memori ( n- )
+1,awesom solut !
+1,awesomered_heart
+2,thank . nice .
+1,sorri ask stupid question key hash map ? index ? valu ?
+1,sort array use left right approach
+1,"class solut : def twosum ( self , num : list [ int ] , target : int ) - > list [ int ] : , num enumer ( num ) : j rang ( i+ , len ( num ) ) : < len ( num ) - : num [ ] + num [ j ] == target : return [ , j ] els : return [ ] brute forc , ms .mb memori . think hashmap use higher level languag like python run c underneath . mayb c++ java abl leverag due proxim assembl . hashmap time right ?"
+1,pleas make dsa playlist idolo
+1,"understand return statement return index revers order , [ prevmap [ differ ] ] repres index differ , basic mean [ , ] , number current check loop ."
+1,essenti use hashmap would ( n^ ) right . tri cpp would essenti requir loop .
+1,"'s differ use `` '' keyword list compar dictionari ( hashmap ) ? thought method iter iter object list . mean `` number list '' request iter list , would take process complex o^ . happen instead use hashmap ? process complex becom ( n ) ?"
+1,video help . one advic : -do n't put next video link/thumbnail end video . cover code part . want put add -sec blank screen end put .
+2,thank much !
+2,great explan visual !
+1,"thank crystal clear explan . question , feel approach one-pass hashmap . wonder would possibl implement python two-pass hashamp solut java ? thank !"

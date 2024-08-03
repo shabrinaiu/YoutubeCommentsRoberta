@@ -1,0 +1,49 @@
+label,text
+1,"interview tip : interview ask someth n't know answer , answer `` hash map trick '' . % success rate % time ."
+1,write enumer ?
+1,"could least tri explain better , highschool n't understand shit told wast time ."
+2,well success . got understood hash tabl work . thank smiling_face_with_smiling_ey
+1,"nice , got comparison hashmap way . one way pass realli good inform : ) watch compar code time better understand . hope , get use recogn pattern techniqu thing use next time ."
+1,exploding_head
+2,good explain
+1,"ummm ... n't know python 's hashmap n't method creat duplic key ? ? target num [ , , , ] . 're go end insert entri key valu"
+1,"hi 'm wonder loop iter complex ( n ) , code `` diff hash map '' ? guess would anoth ( n ) complex total complex ( n^ ) ? pleas correct 'm wrong"
+2,thank incred explan video ! ! !
+2,thank !
+1,name blackboard app use explan ? thank
+2,thank !
+1,mayb dumb question newbi error list . default python casesensit ` know `` list '' `` list '' . explain ?
+1,thank much . 've idea except brute forc solut easi !
+2,thank great explan !
+2,zillion like heart_suitheart_suitheart_suitheart_suitheart_suitheart_suitheart_suitheart_suitheart_suitheart_suitheart_suitheart_suitheart_suitheart_suit subscrib ! ! !
+2,"thank , leetcod . great resourc ."
+1,beauti explain !
+1,video almost feel like cheat code
+1,"class twosum : def summat ( self , num , target ) : prevmap = { } , n enumer ( num ) : diff = target - n diff prevmap : return [ prevmap [ diff ] , ] prevmap [ n ] = return"
+2,realli help well explain .
+1,thank man ! came look u
+1,worst case solut still ( n^ ) . use prevmap.get ( diff ) instead diff prevmap
+1,correct . first explain popul hashmap array valu . later code demonstr popul hashmap target-array [ ] valu . for_what_you_said ever element array test also search hashmap ; increment search bruteforc iter origin array . liter tripl iter otherwis doubl . creat & append hashmap also n't free search hashmap n't free . point doubl search loop bruitforc effici tripl search loop hashmap ?
+1,great video ! small question .. space complex ( n ) n't ( n^ ) ? use space list hashmap ... wrong assumpt ? anyon help around ? thank advanc : )
+1,fascin explan ! thank . use nest loop ? see leetcod say run time ms. solv question nest loop run time ms .
+1,insert hashset map take logn time right ? account nlogn n element .
+1,"find index target = array , return index twice wrong"
+1,"hi - thank explain solut code problem visual approach ( brute forc , make better use right algorithm like two pointer , slide window , etc ) includ code well . realli impress . thank ! way , sourc code blind- problem ( github ) ? pleas let know .. thank"
+2,"thank breakdown solut , help ."
+1,"hey element duplic . array like exist . [ , , , , , ] , target = . error would thrown sinc 're ad key hashtabl twice . check duplic exist skip case . correct ?"
+1,pl around dp
+1,"someon new python , confus part peopl call hasmap dictionari . click realis dictionari ."
+1,"solut okay ! aray= [ , , , ] n= [ ] aray : ( -i ) aray : a=aray.index ( ) b=aray.index ( -i ) n.append ( ) n.append ( b ) break print ( n )"
+1,call dict hash map ? confus key valu valu index .. ? peopl dont know one will `` teach '' someon ?
+2,thank bro :
+1,"hi , came video look discuss tab leetcod . 'm bit disappoint perform code , even though watch video 's follow exactli algorithm . got suggest improv 's speed and/or space ? thank ! runtim : ms , faster . % javascript onlin submiss two sum . memori usag : . mb , less . % javascript onlin submiss two sum . `` `` var twosum = function ( num , target ) { const map = new map ( ) ; ( let = ; < nums.length ; i++ ) { let diff = target - num [ ] ; ( map.ha ( diff ) ) { return [ map.get ( diff ) , ] ; } // safe discard duplic valu // 'if ' actual redund , find clearer leav ( ! map.ha ( num [ ] ) ) { map.set ( num [ ] , ) ; } } } ; `` ``"
+1,"`` n't need return , 'll put return reason '' - honestli kind stuff confus newbi"
+1,"order complex ( diff prevmap ) , ( n )"
+1,show count uniqu set respect target valu ? ? ? pl help
+2,channel underr ! ! thank much veryyyy help ! ! ! red_heartred_heartred_heartred_heart
+1,"sir , last step like ? shouldnt : prevmap [ ] = n ? ? ?"
+1,"`` `` '' note problem special point mark `` # '' refer correspond line code . given array integ num integ target , return indic two number add target . may assum input would exactli one solut , may use element twice . return answer order . input : num = [ , , , ] , target = output : [ , ] explan : num [ ] + num [ ] == , return [ , ] . `` '' '' `` `` '' approach : ( n * n ) .bruteforce-just visit valu ad valu array check sum equal target . ye return index . # . make sure n't check previous cheke vallu avoid repetit . howev techniqu start second loop like first loop . make arrang avoid ad element . otherwis error specif case target counterpart same. `` '' '' def two_sum ( arr , target ) : rang ( , len ( arr ) ) : j rang ( i+ , len ( arr ) ) : # ( arr [ ] +arr [ j ] ==target ) : return [ , j ] print ( two_sum ( [ , , ] , ) ) `` '' '' approch : ( n ) .basic store element array hashtabl correspond origin index . format : - ht= { item : index } .afther go throught element array check 's counter part exit hashtabl . .if , move next element . ye , return index . * algorithm need make arrang situat wher item 's counter part . ad codit statemet . like : - ht [ target- [ numsi ] ] ! =i .the problem aris make hole hashtabl initi itter array . avoid small tricki algorithm . -first visit element . -then check , element 's couunterpart exist hasttabl . add item 's index hashtabl . e.g ht= { item : index } -if ye , mean found item 's counter part return correspond index . * case n't worri situat wher item 's counter part item array. `` '' '' def twosum ( num , target ) : ht= { } rang ( len ( num ) ) : target-num [ ] ht : ht [ num [ ] ] =i els : return ( ht [ target-num [ ] ] , ) print ( twosum ( [ , , ] , ) )"
+0,hashmap n't free lol
+1,"append valu prevmap ? check diffrenc prevmap , store valu ? ?"
+1,would consid dynam approach ?
+1,"solv question ? use hashmap question exampl array valu like [ , ] . target , code return [ , ] allow ."
